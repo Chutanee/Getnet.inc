@@ -1,4 +1,4 @@
-# Getnetam
+# Getnet: Activity command
 
 usage: am [subcommand] [options]
 
